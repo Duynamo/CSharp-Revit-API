@@ -1,0 +1,14 @@
+C:\Users\Desktop\C# API\vsCodeDotnet\bin\Debug\net8.0\vsCodeDotnet.exe
+C:\Users\Desktop\C# API\vsCodeDotnet\bin\Debug\net8.0\vsCodeDotnet.deps.json
+C:\Users\Desktop\C# API\vsCodeDotnet\bin\Debug\net8.0\vsCodeDotnet.runtimeconfig.json
+C:\Users\Desktop\C# API\vsCodeDotnet\bin\Debug\net8.0\vsCodeDotnet.dll
+C:\Users\Desktop\C# API\vsCodeDotnet\bin\Debug\net8.0\vsCodeDotnet.pdb
+C:\Users\Desktop\C# API\vsCodeDotnet\obj\Debug\net8.0\vsCodeDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\C# API\vsCodeDotnet\obj\Debug\net8.0\vsCodeDotnet.AssemblyInfoInputs.cache
+C:\Users\Desktop\C# API\vsCodeDotnet\obj\Debug\net8.0\vsCodeDotnet.AssemblyInfo.cs
+C:\Users\Desktop\C# API\vsCodeDotnet\obj\Debug\net8.0\vsCodeDotnet.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\C# API\vsCodeDotnet\obj\Debug\net8.0\vsCodeDotnet.dll
+C:\Users\Desktop\C# API\vsCodeDotnet\obj\Debug\net8.0\refint\vsCodeDotnet.dll
+C:\Users\Desktop\C# API\vsCodeDotnet\obj\Debug\net8.0\vsCodeDotnet.pdb
+C:\Users\Desktop\C# API\vsCodeDotnet\obj\Debug\net8.0\vsCodeDotnet.genruntimeconfig.cache
+C:\Users\Desktop\C# API\vsCodeDotnet\obj\Debug\net8.0\ref\vsCodeDotnet.dll

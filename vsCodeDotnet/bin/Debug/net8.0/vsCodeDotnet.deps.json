@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "vsCodeDotnet/1.0.0": {
+        "runtime": {
+          "vsCodeDotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vsCodeDotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
